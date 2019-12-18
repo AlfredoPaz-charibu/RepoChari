@@ -1,0 +1,7 @@
+*.class
+#son comentarioc uwu
+
+passwords.txt
+node_modules/
+librerias/
+!librerias/archivo_*.md
